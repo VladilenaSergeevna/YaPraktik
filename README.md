@@ -38,6 +38,12 @@
 - cp  
 ---  
 
+## Инициализация репозитория  
+git init (от англ. initialize, «инициализировать») — инициализируй репозиторий.  
+Синхронизация локального и удалённого репозиториев  
+git remote add origin https://github.com/YandexPracticum/first-project.git  
+
+-------
 
 ## Хэш  
 
